@@ -43,4 +43,4 @@ public List<OrderQueryDto> findAllByDto() {
 
 <br><Br>
 
-다음 V6에서는 단 한번의 쿼리로 Orders를 조회하는 방법을 알아 보겠다.ㄴㄴ
+다음 V6에서는 단 한번의 쿼리로 Orders를 조회하는 방법을 알아 보겠다.
